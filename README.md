@@ -1,16 +1,13 @@
-### Hi there 👋
+<img src="https://i.imgur.com/gfXKdZO.png" align="center" />
 
-<!--
-**culturehives/culturehives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### _A WEB /// CREATIVE AGENCY_
 
-Here are some ideas to get you started:
+> CulutreHives™️ is a creative agency specializing in design, branding, & creative direction. Our team combines our expertise in blockchain technology, traditional art, and conventional design principles to create innovative and impactful experiences for our clients. From designing websites and developing brand identities, to creating packaging and providing creative direction, we use our skills and expertise to shake things up and bring fresh, disruptive ideas to the table.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐦 [twitter][twitter] **|** 
+📸 [instagram][instagram] **|** 
+🏡 [website][website]
+
+[website]: https://culturehives.com/
+[twitter]: https://twitter.com/culturehives/
+[instagram]: https://instagram.com/culturehives/
